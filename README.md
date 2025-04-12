@@ -4,7 +4,7 @@ Script to save (like) all songs in a YouTube Music playlist, adding them to your
 
 I've used TuneMyMusic (paid one month of it, cheap enough) to transfer all playslists. However, spotify's liked songs are placed in a new "Favorite Songs" playlist in Youtube. So you can use this script to save all songs from any YouTube Music playlist to your Youtube Musiç's "Liked Music"
 
-TuneMyMusic does not transfer radios or other playslists that spotify generated. However, these are only 50 tracks long and PlaylistBuddy (free) works with those (but you have to select then transfer one at a time)
+TuneMyMusic does not transfer radios or other playslists that spotify generated. However, these are only 50~150 tracks long and PlaylistBuddy (free) works with those (but you have to select then transfer one at a time). However, PlaylistBuddy connects to your YT and saves there. YT and YTM share playlists but I've seen several songs not found in YouTube but found in YouTube Music. So, I manually saved each Spotify generated playlist as a new playlist then transfered those to YouTube Music through TuneMyMusic. 
 
 This script likes all songs in any YouTube Music playlist. Go to the playlist then run this through console (F12, copy paste [script.js](/script.js)) or as a snippet in your dev tools (F12 > sources)
 
